@@ -10,7 +10,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "Ranz Botz",
+  "author": "Kunting Botz",
   "license": "GPL-3.0",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
